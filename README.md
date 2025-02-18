@@ -7,5 +7,6 @@ Empty package published as organization root.
 2. Execute `npm run publish`.
 
 ### Do not
+
 - Build the project
 - Commit any changes
