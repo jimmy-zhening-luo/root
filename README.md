@@ -1,4 +1,4 @@
-# [`root`](https://github.com/jimmy-zhening-luo/root/edit/main/README.md)
+# [`root`](https://github.com/jimmy-zhening-luo/root)
 Empty package published as organization root.
 
 ## Publish Steps
