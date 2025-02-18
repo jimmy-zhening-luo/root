@@ -1,0 +1,11 @@
+# [`root`](https://github.com/jimmy-zhening-luo/root/edit/main/README.md)
+Empty package published as organization root.
+
+## Publish Steps
+
+1. In `package.json` and `package_lock.json`, set `package_name` to the organization name (without scope).
+2. Execute `npm run publish`.
+
+### Do not
+- Build the project
+- Commit any changes
